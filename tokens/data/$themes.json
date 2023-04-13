@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "id": "fbad6c64a53644c521f0d6065d3b0d8ecfdcd569",
+    "name": "NavMD - Light",
+    "selectedTokenSets": {
+      "semantic": "source",
+      "navmd/light": "enabled",
+      "core/border": "source",
+      "core/color": "source",
+      "core/dimension": "source",
+      "core/font-family": "source",
+      "core/font-nRatio": "source",
+      "core/font-scale": "source",
+      "core/font-size": "source",
+      "core/font-weight": "source",
+      "core/letter-spacing": "source",
+      "core/line-height": "source",
+      "core/paragraph-spacing": "source",
+      "core/text-case": "source",
+      "comp/alert": "enabled",
+      "comp/badge": "enabled",
+      "comp/button": "enabled",
+      "comp/cell": "enabled",
+      "comp/icon-button": "enabled",
+      "comp/input": "enabled",
+      "comp/link": "enabled",
+      "comp/multiselect": "enabled",
+      "comp/option": "enabled",
+      "comp/select": "enabled",
+      "comp/tag": "enabled",
+      "comp/text": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]

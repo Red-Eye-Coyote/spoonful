@@ -688,9 +688,9 @@
       "value": {
         "height": "{btn.sizing.height.md}",
         "paddingTop": "{btn.spacing.padding-top}",
-        "paddingRight": "{btn.spacing.padding-right.md}",
+        "paddingRight": "{btn.spacing.padding-right.lg}",
         "paddingBottom": "{btn.spacing.padding-bottom}",
-        "paddingLeft": "{btn.spacing.padding-left.md}",
+        "paddingLeft": "{btn.spacing.padding-left.lg}",
         "borderRadius": "{btn.border-radius}",
         "borderWidth": "{btn.border-width}"
       },
