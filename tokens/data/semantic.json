@@ -1656,7 +1656,7 @@
         }
       },
       "actions": {
-        "value": "{font-family.proximaNova}",
+        "value": "{font-family.lato}",
         "type": "fontFamilies"
       },
       "status": {
@@ -1788,7 +1788,7 @@
         "type": "fontSizes"
       },
       "base": {
-        "value": "{font-size.14}",
+        "value": "{font-size.16}",
         "type": "fontSizes"
       },
       "scale": {
