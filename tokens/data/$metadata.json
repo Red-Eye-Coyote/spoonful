@@ -31,12 +31,7 @@
     "breakpoints/lg",
     "breakpoints/xl",
     "breakpoints/xxl",
-    "darwin/light",
-    "darwin/dark",
-    "hd/triple-s/light",
-    "hd/triple-s/dark",
-    "hd/alivia/light",
-    "hd/alivia/dark",
-    "system_utils"
+    "navmd/light",
+    "navmd/dark"
   ]
 }
